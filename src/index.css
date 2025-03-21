@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-dark-900 antialiased;
+}
+
+::selection {
+  @apply bg-accent-gold text-dark-900;
+}
