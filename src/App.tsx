@@ -14,7 +14,7 @@ function App() {
   }, []);
 
   const handleBooking = () => {
-    window.open('https://wa.me/5511993638326?text=Salve! Quero marcar um corte. Tem horário disponível?', '_blank');
+    window.open('https://wa.me/5511957057766?text=Salve! Quero marcar um corte na Catoia do Corte. Tem horário disponível?', '_blank');
   };
 
   const closeMobileMenu = () => {
@@ -171,7 +171,7 @@ function App() {
             <h4 className="font-gothic text-xl mb-6 text-accent-gold">Contato</h4>
             <div className="flex items-center gap-3 mb-4">
               <Phone className="w-5 h-5 text-accent-gold" />
-              <span className="text-accent-white/80">(11) 99363-8326</span>
+              <span className="text-accent-white/80">(11) 95705-7766</span>
             </div>
             <div className="flex items-center gap-3">
               <MapPin className="w-5 h-5 text-accent-gold" />
